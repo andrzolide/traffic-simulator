@@ -1,4 +1,5 @@
 # traffic-simulator
+2d traffic simulator with dynamic cars
 
 Napisany obiektowo projekt który symuluje ruch uliczny na prostej mapie 2d. 
 
